@@ -11,4 +11,7 @@ fun ConditionalStatement(){
     } else {
         println("Negative number")
     }
+    //when
+    val day = 1
+    when (day) =
 }
