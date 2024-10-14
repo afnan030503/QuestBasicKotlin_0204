@@ -30,5 +30,5 @@ println(strLength(neverNull))
 }
 
 fun main(){
-    NullSafety
+    NullSafety()
 }
