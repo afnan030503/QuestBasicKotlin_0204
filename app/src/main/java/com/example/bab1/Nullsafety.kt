@@ -28,3 +28,7 @@ fun strLength(notNull: String) : Int{
 }
 println(strLength(neverNull))
 }
+
+fun main(){
+    NullSafety
+}
